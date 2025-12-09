@@ -6,7 +6,7 @@ title: Aidan Eigenbrod Eportfolio
 ## Professioanl Self assesment
 [fill in]
 
-##Projects
+## Projects
 ### Project 1
 
 ### Project 2
