@@ -3,12 +3,17 @@ layout: default
 title: Aidan Eigenbrod Eportfolio
 ---
 
-# Hello, welcome to my eportfolio.
+## Professioanl Self assesment
+[fill in]
 
-## Aidan Eigenbrod
+##Projects
+### Project 1
+
+### Project 2
+
+### Project 3
 
 ### Education
 Computer Science, BS
 
-### Projects
-Coming soon...
+
