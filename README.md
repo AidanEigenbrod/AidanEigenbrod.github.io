@@ -1,5 +1,3 @@
-# AidanEigenbrod.github.io
-
 # Aidan Eigenbrod
 
 ### Education
