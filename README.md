@@ -44,9 +44,9 @@ This enhancement demonstrates my ability to apply secure coding practices, handl
 
 <code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-3/Artifact-3/Read.md">here</a>.</code>
 
-## Code Review
+## Code Review:
 
 Although a video presentation was recommended for the informal code review, I completed a structured written code review for each selected artifact. This process involved examining the original implementations in detail, identifying opportunities for improvement in structure, logic, performance, and security, and documenting planned enhancements prior to implementation. This written review served the same purpose as a video walkthrough by supporting clear technical reasoning, professional communication, and thoughtful planning before development changes were made.
 
-## Education
+## Education:
 Computer Science, BS
