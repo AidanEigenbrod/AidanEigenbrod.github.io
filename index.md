@@ -20,7 +20,7 @@ The artifacts in this ePortfolio reflect the progression of my skills across key
 ### Artifact 1 - Software Engineering & Design
 I enhanced my original CS 300 Course Planner program by reorganizing it into a single, well-structured CourseManager class to improve code organization, readability, and maintainability. This update showed my ability to refactor working software using sound design principles, focus on long-term structure, and carefully plan changes to preserve functionality. The process strengthened my problem-solving skills and confidence in improving existing code.
 
-<code>See the artifact's report and code <a href="hhttps://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-1/Artifact-1/Read.md">here</a>.</code>
+<code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-1/Artifact-1/Read.md">here</a>.</code>
 
 
 ### Artifact 2 - Algorithms and Data Structures
