@@ -2,7 +2,8 @@
 layout: default
 title: Aidan Eigenbrod
 ---
-## Navigation
+## Contents:
+- [Proffesional Self-Assessment](#proffesional-self--assessment)
 - [Artifact 1](#artifact-1---software-engineering--design)
 - [Artifact 2](#artifact-2---algorithms-and-data-structures)
 - [Artifact 3](#artifact-3---databases)
