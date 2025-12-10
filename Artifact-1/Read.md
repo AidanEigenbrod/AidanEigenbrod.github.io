@@ -1,5 +1,4 @@
-# Artifact-1
-## Software Engineering & Design
+# Enhancement-1: Software Engineering & Design
 
   I chose to use my Course Planner program that I originally developed in my CS 300 class. The purpose of this program is to read a CSV file and obtain information about courses along with their prerequisites. From this, the program allows the user to look up a course and their perquisites or simply look at a full list of the courses. Even though the original program worked properly and fit all the required needs for the assignment it was intended for, it was written in a way that where the functions were separated and not well connected. For this milestone, I updated the program so that it is organized around a single class called CourseManager. 
 
