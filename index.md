@@ -49,11 +49,8 @@ This enhancement reflects my ability to integrate secure development practices i
 <code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-3/Artifact-3/Read.md">here</a>.</code>
 
 ## Code Review
-My informal code review video provides a walkthrough of each selected artifact in its original state before enhancements were made. In the video, I explain how the programs functioned, identify weaknesses in structure, efficiency, and security, and describe the rationale behind each planned improvement. I also connect these enhancements to relevant learning outcomes and professional standards.
 
-This process is valuable because it documents my reasoning, supports clear technical communication, and enables constructive feedback before implementation. It demonstrates my ability to evaluate existing software and communicate improvement strategies in a clear and professional manner.
-
-<code><a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io"> Watch my code review here</a>.</code>
+Although a video presentation was recommended for the informal code review, I completed a structured written code review for each selected artifact. This process involved examining the original implementations in detail, identifying opportunities for improvement in structure, logic, performance, and security, and documenting planned enhancements prior to implementation. This written review served the same purpose as a video walkthrough by supporting clear technical reasoning, professional communication, and thoughtful planning before development changes were made.
 
 ## Education
 Computer Science, BS
