@@ -7,3 +7,9 @@
   For this enhancement, I wanted to show that I could improve the structure of a program using better design practices which align with the software design and engineering course outcome. I met that goal by reorganizing the project, so it uses a clearer and more organized layout. The update also touches on planning and problem solving, since I had to think through how everything should fit together before making changes.
 
   When working on the enhancement, I began to think of the same problem in many ways to try and make it better. When I started moving everything into a single class, I had to take some time to understand how the original code flowed and where everything belonged. My biggest obstacle that I faced was ensuring that everything continued to work as I kept working on the program. This taught me that thinking things through before acting upon them is essential to every aspect of developing. Even with that, the process helped me grow more comfortable with improving existing code.
+
+<code>To see the artifact's origianl code, press <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-1/Artifact-1/Original-Artifact1.cpp">here</a>.</code>
+
+<code>To see the artifact's enhanced code, press <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/tree/Artifact-1/Artifact-1/Enhancement-1">here</a>.</code>
+
+
