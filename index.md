@@ -3,7 +3,7 @@ layout: default
 title: Aidan Eigenbrod
 ---
 
-## Professional Self assesment
+## Professional Self Assesment:
 I am a Computer Science graduate who completed a comprehensive and technically rigorous program through Southern New Hampshire University (SNHU). Throughout my coursework and the development of my ePortfolio, I developed strong foundations in software engineering, problem solving, data management, and system-level thinking. Building this portfolio allowed me to reflect on my growth as a developer, clarify my professional goals, and demonstrate my readiness to contribute in professional software engineering environments.
 
 My academic experience spans multiple areas of computer science, including programming languages, data structures, computer systems, and full-stack development. Courses such as Programming Languages, Data Structures, Software Engineering, and Full Stack Development strengthened my ability to write clean, efficient code and design maintainable software solutions. Through hands-on assignments, I implemented core structures such as arrays, linked lists, hash tables, and binary trees, and applied algorithmic concepts to improve performance and memory usage.
@@ -16,7 +16,7 @@ Security awareness was developed through coursework in cybersecurity and softwar
 
 The artifacts in this ePortfolio reflect the progression of my skills across key technical areas. Together, they demonstrate how my abilities in programming, data structures, databases, system architecture, and secure development work together to create reliable software. Each artifact highlights a different aspect of my technical growth, and collectively they present a clear picture of my capabilities as a computer science professional.
 
-## Project Enhancements
+## Project Enhancements:
 ### Artifact 1 - Software Engineering & Design
 I enhanced my original CS 300 Course Planner program by reorganizing it into a single, well-structured CourseManager class to improve code organization, readability, and maintainability. This update showed my ability to refactor working software using sound design principles, focus on long-term structure, and carefully plan changes to preserve functionality. The process strengthened my problem-solving skills and confidence in improving existing code.
 
