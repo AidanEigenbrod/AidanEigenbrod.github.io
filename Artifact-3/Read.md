@@ -7,4 +7,6 @@ I chose to update and improve my AnimalShelter program that I developed in my CS
   
   Working on this enhancement made me think more about how important it is to build programs that are secure from the start. When I originally created this project, I was only trying to get the database connection working and fulfilling the requirements of the assignment. Being able to come back to the program after gaining more knowledge and experience allowed me to better understand how everything fits together. One of the biggest challenges I faced was making sure the database connection still worked correctly after switching to environment variables.
 
-  
+<code>To see the artifact's origianl code, press <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-3/Artifact-3/Original-Read.py">here</a>.</code>
+
+<code>To see the artifact's enhanced code, press <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-3/Artifact-3/Enhanced-Read.py">here</a>.</code>
