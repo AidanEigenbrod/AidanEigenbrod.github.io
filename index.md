@@ -3,10 +3,10 @@ layout: default
 title: Aidan Eigenbrod
 ---
 ## Navigation
-- [Code Review](#code-review)
 - [Artifact 1](#artifact-1---software-engineering--design)
 - [Artifact 2](#artifact-2---algorithms-and-data-structures)
 - [Artifact 3](#artifact-3---databases)
+- [Code Review](#code-review)
 
 ## Professional Self-Assessment:
 I am a Computer Science graduate who completed a comprehensive and technically rigorous program through Southern New Hampshire University (SNHU). Throughout my coursework and the development of my ePortfolio, I developed strong foundations in software engineering, problem solving, data management, and system-level thinking. Building this portfolio allowed me to reflect on my growth as a developer, clarify my professional goals, and demonstrate my readiness to contribute in professional software engineering environments.
@@ -37,6 +37,11 @@ I selected my CS 300 Course Planner program to enhance its performance and struc
 I enhanced my CS 340 AnimalShelter program by improving its security and reliability while maintaining its core MongoDB CRUD functionality. The updates focused on removing hardcoded database credentials, using environment variables to protect sensitive information, and adding stronger input validation and error handling. This project demonstrates my ability to apply secure coding practices and improve existing database-driven applications. The process increased my awareness of how important it is to design software with security in mind from the start.
 
 <code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-3/Artifact-3/Read.md">here</a>.</code>
+
+## Code Review
+My informal code review video walks through the existing functionality of the program, explaining how the main features work before any enhancements are made. I analyze the structure, logic, efficiency, and security of the code to identify areas that need improvement and clearly explain why those changes are necessary. The video also outlines my planned enhancements and how they align with the course outcomes, while demonstrating my ability to communicate technical ideas in a clear, professional way. This process is useful because it documents my thought process, helps others quickly understand the project, and allows peers or managers to provide feedback before changes are finalized.
+
+<code>See my code review <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io">here</a>.</code>
 
 ## Education
 Computer Science, BS
