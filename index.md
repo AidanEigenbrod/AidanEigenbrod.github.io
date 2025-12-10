@@ -2,6 +2,11 @@
 layout: default
 title: Aidan Eigenbrod
 ---
+## Navigation
+- [Code Review](#code-review)
+- [Artifact 1](#artifact-1---software-engineering--design)
+- [Artifact 2](#artifact-2---algorithms-and-data-structures)
+- [Artifact 3](#artifact-3---databases)
 
 ## Professional Self-Assessment:
 I am a Computer Science graduate who completed a comprehensive and technically rigorous program through Southern New Hampshire University (SNHU). Throughout my coursework and the development of my ePortfolio, I developed strong foundations in software engineering, problem solving, data management, and system-level thinking. Building this portfolio allowed me to reflect on my growth as a developer, clarify my professional goals, and demonstrate my readiness to contribute in professional software engineering environments.
