@@ -29,10 +29,11 @@ I selected my CS 300 Course Planner program to enhance its performance and struc
 <code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-2/Artifact-2/Read.md">here</a>.</code>
 
 ### Artifact 3 - Databases
+I enhanced my CS 340 AnimalShelter program by improving its security and reliability while maintaining its core MongoDB CRUD functionality. The updates focused on removing hardcoded database credentials, using environment variables to protect sensitive information, and adding stronger input validation and error handling. This project demonstrates my ability to apply secure coding practices and improve existing database-driven applications. The process increased my awareness of how important it is to design software with security in mind from the start.
 
-<code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-1/Artifact-1/Read.md">here</a>.</code>
+<code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-3/Artifact-3/Read.md">here</a>.</code>
 
-### Education
+## Education
 Computer Science, BS
 
 
