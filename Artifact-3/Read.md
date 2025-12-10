@@ -1,1 +1,10 @@
-# Fill in Information
+# Enhancement-3: Databases
+I chose to update and improve my AnimalShelter program that I developed in my CS 340 class. The original purpose of this program is to connect to a MongoDB database and manage animal records using the CRUD method. CRUD stands for creating, reading, updating, and deleting. When developing this program, I wanted to make sure that the database connection worked, and the implementation of the CRUD method worked as it was intended. Even though the original program worked after the development process, I never implemented any security measures. For example, the program stored the database username and password directly in the file, which is something that should be avoided.
+
+  The AnimalShelter program was chosen as my artifact for the databases category because it gave me a good opportunity to show my ability to take a database program and make it more secure. By updating this project, I was able to demonstrate my ability to improve an existing program so that it follows better practices. The two main goals of my enhancement were to protect the sensitive information used to connect to the database and to make sure the program handled errors in a more controlled way.
+  
+  My plan for this enhancement lined up with course outcomes four and five because it required me to use good software development skills and think with a security mindset. Instead of hardcoding the username and password, I plan to replace them with environment variables to ensure the sensitive information is no longer within the developed program. Furthermore, I also added input checks and error handling, which helped prevent the program from failing unexpectedly and protected the database from invalid entries.
+  
+  Working on this enhancement made me think more about how important it is to build programs that are secure from the start. When I originally created this project, I was only trying to get the database connection working and fulfilling the requirements of the assignment. Being able to come back to the program after gaining more knowledge and experience allowed me to better understand how everything fits together. One of the biggest challenges I faced was making sure the database connection still worked correctly after switching to environment variables.
+
+  
