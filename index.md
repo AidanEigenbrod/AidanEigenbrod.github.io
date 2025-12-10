@@ -25,7 +25,11 @@ I enhanced my original CS 300 Course Planner program by reorganizing it into a s
 
 ### Artifact 2 - Algorithms and Data Structures
 
+<code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-1/Artifact-1/Read.md">here</a>.</code>
+
 ### Artifact 3 - Databases
+
+<code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-1/Artifact-1/Read.md">here</a>.</code>
 
 ### Education
 Computer Science, BS
