@@ -24,8 +24,9 @@ I enhanced my original CS 300 Course Planner program by reorganizing it into a s
 
 
 ### Artifact 2 - Algorithms and Data Structures
+I selected my CS 300 Course Planner program to enhance its performance and structure by improving search efficiency and organizing how data is processed. The original program functioned correctly, but it performed unnecessary repeated lookups and produced inconsistent output, which I addressed by optimizing prerequisite checks and implementing more efficient data handling. This project demonstrates my ability to apply stronger algorithmic and data structure decisions to improve existing software. The enhancement process strengthened my problem-solving skills and confidence in analyzing and refining code for better performance and reliability.
 
-<code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-1/Artifact-1/Read.md">here</a>.</code>
+<code>See the artifact's report and code <a href="https://github.com/AidanEigenbrod/AidanEigenbrod.github.io/blob/Artifact-2/Artifact-2/Read.md">here</a>.</code>
 
 ### Artifact 3 - Databases
 
