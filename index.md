@@ -50,7 +50,9 @@ This enhancement reflects my ability to integrate secure development practices i
 
 ## Code Review:
 
-Although a video presentation was recommended for the informal code review, I completed a structured written code review for each selected artifact. This process involved examining the original implementations in detail, identifying opportunities for improvement in structure, logic, performance, and security, and documenting planned enhancements prior to implementation. This written review served the same purpose as a video walkthrough by supporting clear technical reasoning, professional communication, and thoughtful planning before development changes were made.
+Code reviews are essential to the software development process because they help catch issues early and improve the overall code quality before problems reach users. They also encourage collaboration by allowing developers to share ideas, learn from one another, and make better design decisions as a team. In addition, code reviews help ensure that software is easier to maintain, more secure, and better aligned with industry standards over time.
+
+<code> <a href="https://youtu.be/Tu9_CVtP6lQ">Watch my code review here</a>.</code>
 
 ## Education:
 Computer Science, BS
